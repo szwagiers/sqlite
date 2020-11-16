@@ -1,1 +1,1 @@
-Starting to learn sqlite with python for other software improvments (like better_calculator).
+Starting to learn sqlite with python for other software improvements (like better_calculator).
